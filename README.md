@@ -129,5 +129,3 @@ The generated documentation will be available in the specified `output` director
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 ```
-
-This `README.md` provides an overview of the project's structure, dependencies, and setup instructions, specifically for a Spring Boot project with hexagonal architecture, Lombok, MapStruct, and OpenAPI. Adjust the placeholders like `yourcompany`, `yourproject`, and specific configuration details as needed.
