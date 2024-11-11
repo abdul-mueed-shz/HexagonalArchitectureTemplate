@@ -124,8 +124,3 @@ The generated documentation will be available in the specified `output` director
 - **Lombok**: [Project Lombok documentation](https://projectlombok.org/)
 - **MapStruct**: [MapStruct documentation](https://mapstruct.org/documentation/stable/reference/html/)
 - **OpenAPI**: [OpenAPI documentation](https://swagger.io/docs/specification/about/)
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-```
