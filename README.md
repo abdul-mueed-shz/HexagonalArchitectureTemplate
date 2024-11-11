@@ -1,5 +1,3 @@
-Here's a `README.md` template for a Spring Boot project using hexagonal architecture, with Lombok, MapStruct, and OpenAPI setup.
-
 ```markdown
 # Hexagonal Architecture Spring Boot Project
 
